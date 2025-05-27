@@ -3,7 +3,9 @@
 one:
   title: MyString
   content: MyString
+  creator: one
 
 two:
   title: MyString
   content: MyString
+  creator: two
